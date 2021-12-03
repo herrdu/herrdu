@@ -3,6 +3,7 @@
  I'm a Front-End Developer
 - I'm currently working on Annotation Data Platform.
 - I had built an Email Website, 88.com . 
+- My skills are: Javascript, CSS, HTML, VUEJS, ReactJS, NODE JS, GoLang, Nginx, Linux, PorseMirror, LeafLet
 - My motto is: Learn More, Do More, Speak More.
 
 <!--
